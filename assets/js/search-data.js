@@ -521,13 +521,6 @@ ninja.data = [{
           window.open("mailto:%79%61%6E%6E%69%63%6B.%62%6F%75%63%68%61%72%61%74@%75%6E%69%76-%67%72%65%6E%6F%62%6C%65-%61%6C%70%65%73.%66%72", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -540,13 +533,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.researchgate.net/profile/Yannick-Boucharat/", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.researchgate.net/profile/Yannick-Boucharat", "_blank");
         },
       },{
       id: 'light-theme',
