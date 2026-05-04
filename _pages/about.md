@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.isterre.fr'>ISTerre, Université Grenoble Alpes</a>. yannick.boucharat@univ-grenoble-alpes.fr. 
 
 profile:
   align: right
