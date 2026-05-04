@@ -451,22 +451,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
+          section: "News",},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
@@ -491,11 +476,26 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-subduction-numerical-modeling",
+          title: 'Subduction numerical modeling',
+          description: "An overview of my research on subduction dynamics",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Geodyn_subduction/";
+            },},{id: "projects-some-python-tools",
+          title: 'Some python tools',
+          description: "another without an image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Python_projects/";
             },},{id: "projects-reef",
           title: 'REEF',
           description: "Description of the REEF code",
           section: "Projects",handler: () => {
               window.location.href = "/projects/REEF/";
+            },},{id: "projects-rosetta",
+          title: 'RoSETTA',
+          description: "Description of the RoSETTA code",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RoSETTA/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
