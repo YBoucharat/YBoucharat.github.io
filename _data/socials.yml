@@ -3,14 +3,14 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: yannick.boucharat@univ-grenoble-alpes.fr # your email address
-inspirehep_id: 1010907 # Inspire HEP author ID
+# inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: 2yOlBIEAAAAJ&hl # your Google Scholar ID
 research_gate_profile: Yannick-Boucharat
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://help.researchgate.net/~gitbook/image?url=https%3A%2F%2F4261976051-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FxYXeLSiRXUlWH1QAXUMx%252Fuploads%252FjJgsN99DQSK6nmuq8qSK%252FRG_Logo_Black_White.png%3Falt%3Dmedia%26token%3D1a956113-c0ea-4bd0-bb78-57ed49d953e4&width=300&dpr=3&quality=100&sign=83e95436&sv=2 # can be png, svg, jpg
-  title: researchgate
-  url: https://www.researchgate.net/profile/Yannick-Boucharat
+# custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
+#   logo: https://help.researchgate.net/~gitbook/image?url=https%3A%2F%2F4261976051-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FxYXeLSiRXUlWH1QAXUMx%252Fuploads%252FjJgsN99DQSK6nmuq8qSK%252FRG_Logo_Black_White.png%3Falt%3Dmedia%26token%3D1a956113-c0ea-4bd0-bb78-57ed49d953e4&width=300&dpr=3&quality=100&sign=83e95436&sv=2 # can be png, svg, jpg
+#   title: researchgate
+#   url: https://www.researchgate.net/profile/Yannick-Boucharat
 
