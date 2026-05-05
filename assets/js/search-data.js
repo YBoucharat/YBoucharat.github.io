@@ -498,7 +498,7 @@ ninja.data = [{
               window.location.href = "/projects/RoSETTA/";
             },},{id: "teachings-reef-code-practical",
           title: 'REEF code practical',
-          description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
+          description: "I developped this practical for master 1 and 2 students as an introduction to coral reef terraces dynamics, highlighting the interaction between Quaternary sea-level change, vertical movements and erosion/coral reef growth. The practical is then centered on the utilisation of the REEF code.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/REEF-code-practical/";
             },},{id: "teachings-introduction-to-machine-learning",
