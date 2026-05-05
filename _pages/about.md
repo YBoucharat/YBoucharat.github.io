@@ -31,4 +31,4 @@ latest_posts:
 I'm presently a PhD student working on interactions between the solid earth and surface processes. I mostly focus on subduction dynamics using numerical models, and how they shape the surface through dynamic topography. Another aspect of my research is on the interaction between Quaternary sea-level, vertical land motion and coral reef morphogenesis, also using numerical methods. 
 I started my studies in physics, and rapidly switched towards general geology, stuidying mostly the processes that drives the Earth system, with the interactions between the solid and soft Earth.
 
-With nearly no programming background, I learnt programming (mostly using python) myself spending hours on stackoverflow, hours I try to compensate as I can on the field with for student courses or to help friends at the lab !
+With nearly no programming background, I learnt programming (mostly using python) myself spending hours on stackoverflow, hours I try to compensate as I can on the field for student courses or to help friends at the lab !
