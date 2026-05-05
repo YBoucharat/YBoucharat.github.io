@@ -506,6 +506,11 @@ ninja.data = [{
           description: "I developped this practical for master 1 and 2 students as an introduction to coral reef terraces dynamics, highlighting the interaction between Quaternary sea-level change, vertical movements and erosion/coral reef growth. The practical is then centered on the utilisation of the REEF code.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/REEF-code-practical/";
+            },},{id: "teachings-sedimentology-systems",
+          title: 'Sedimentology systems',
+          description: "2 days to reconstruct the environment before and during the Alps&#39; flexural basin, from upper Jurrasic to Pliocene.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/Sedimentology_systems_L3/";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
