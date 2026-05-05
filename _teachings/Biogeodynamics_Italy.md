@@ -15,7 +15,7 @@ topic: Fieldwork
 This course provides a comprehensive introduction to coral reef terraces dynamics. Students will:
 
 - Learn the interactions between sea-level change, vertical movements and erosion/coral reef growth
-- Learn how to use the [REEF code](/_projects/REEF)
+- Learn how to use the [REEF code](/projects/REEF)
 
 This course is thought to be understandable by people without any programming background, and can also be comprehensive with only a little knowledge about glacial-interglacial cycles and carbonate platforms dynamics.
 
