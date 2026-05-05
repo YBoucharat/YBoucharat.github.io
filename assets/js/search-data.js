@@ -496,6 +496,11 @@ ninja.data = [{
           description: "Description of the RoSETTA code",
           section: "Projects",handler: () => {
               window.location.href = "/projects/RoSETTA/";
+            },},{id: "teachings-biogeodynamics-italy",
+          title: 'Biogeodynamics_italy',
+          description: "I developped this practical for master 1 and 2 students as an introduction to coral reef terraces dynamics, highlighting the interaction between Quaternary sea-level change, vertical movements and erosion/coral reef growth. The practical is then centered on the utilisation of the REEF code.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/Biogeodynamics_Italy/";
             },},{id: "teachings-reef-code-practical",
           title: 'REEF code practical',
           description: "I developped this practical for master 1 and 2 students as an introduction to coral reef terraces dynamics, highlighting the interaction between Quaternary sea-level change, vertical movements and erosion/coral reef growth. The practical is then centered on the utilisation of the REEF code.",
