@@ -510,7 +510,7 @@ ninja.data = [{
           title: 'Sedimentology systems',
           description: "2 days to reconstruct the environment before and during the Alps&#39; flexural basin, from upper Jurrasic to Pliocene.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/Sedimentology_systems_L3/";
+              window.location.href = "/teachings/Sedim_systems_field_L3/";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
