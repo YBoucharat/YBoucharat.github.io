@@ -508,9 +508,14 @@ ninja.data = [{
               window.location.href = "/teachings/REEF-code-practical/";
             },},{id: "teachings-sedimentology-systems",
           title: 'Sedimentology systems',
-          description: "2 days to reconstruct the environment before and during the Alps&#39; flexural basin, from upper Jurrasic to Pliocene.",
+          description: "2 days to reconstruct the environment before and during the Alps&#39; flexural basin, from upper Jurassic to Pliocene.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/Sedim_systems_field_L3/";
+            },},{id: "teachings-sedimentology-systems",
+          title: 'Sedimentology systems',
+          description: "Practicals for bachelor students (third year) to caracterize detritic and carbonate rocks at macro and micro scales.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/Sedim_systems_practicals/";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
