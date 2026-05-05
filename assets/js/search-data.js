@@ -508,7 +508,7 @@ ninja.data = [{
               window.location.href = "/teachings/REEF-code-practical/";
             },},{id: "teachings-sedimentology-systems",
           title: 'Sedimentology systems',
-          description: "2 days to reconstruct the environment before and during the Alps&#39; flexural basin, from upper Jurassic to Pliocene.",
+          description: "2 days to reconstruct the environment before and during the Alps&#39; flexural basin, from upper Jurrasic to Pliocene.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/Sedim_systems_field_L3/";
             },},{id: "teachings-sedimentology-systems",
