@@ -1,13 +1,12 @@
 ---
 layout: course
-title: Data Science Fundamentals
+title: REEF code practical
 description: This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.
-instructor: Prof. Data
+instructor: Yannick Boucharat
 year: 2024
-term: Spring
-location: Science Building, Room 202
-time: Mondays and Wednesdays, 2:00-3:30 PM
-course_id: data-science-fundamentals
+location: Université Grenoble Alpes
+time: 3 hours
+course_id: REEF-code-practical
 schedule:
   - week: 1
     date: Feb 5
