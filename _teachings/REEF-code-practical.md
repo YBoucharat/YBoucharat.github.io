@@ -7,7 +7,7 @@ year: 2024
 location: Université Grenoble Alpes
 time: 3 hours
 course_id: REEF-code-practical
-topic: Geomorphology
+topic: Practicals
 ---
 
 ## Course Overview
