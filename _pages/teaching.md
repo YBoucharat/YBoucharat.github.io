@@ -2,13 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Teaching experiences with some resources.
 nav: true
 nav_order: 6
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+This page displays my teaching experiences with some materials and nice (and thus obviously not mine!) field pictures.
 
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
