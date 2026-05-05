@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Sedimentology systems
-description: 2 days to reconstruct the environment before and during the Alps' flexural basin, from upper Jurrasic to Pliocene.
+description: 2 days to reconstruct the environment before and during the Alps' flexural basin, from upper Jurassic to Pliocene.
 instructor: Arjan de Leeuw, Yannick Boucharat, Anna Duhoux
 year: 2026
 location: Vercors, Alps, France
