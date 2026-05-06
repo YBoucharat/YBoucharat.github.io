@@ -18,9 +18,10 @@
     {% assign courses_by_topic = site.teachings | group_by: "topic" %}
 
     {% for topic_group in courses_by_topic %}
-      <h2>{{ topic_group.name }}</h2>
+      <h2 class="topic">{{ topic_group.name }}</h2>
       <div class="course-list">
-        {% for course in topic_group.items %}
+        {% assign topic_courses = topic_group.items | sort: 'term' %}
+        {% for course in topic_courses %}
 
           <div class="course-item">
             <h3 class="course-title">
