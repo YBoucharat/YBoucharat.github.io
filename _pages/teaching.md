@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching experiences with some resources.
 nav: true
-nav_order: 6
+nav_order: 3
 calendar: true
 ---
 
