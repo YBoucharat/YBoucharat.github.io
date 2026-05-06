@@ -21,7 +21,7 @@
             </td>
             <td>
               {% if presentation.date %}
-                {{ presentation.date }}
+                {{ presentation.date | date: "%b %d" }}
               {% endif %}
             </td>
             <td>
