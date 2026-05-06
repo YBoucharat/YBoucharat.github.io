@@ -56,6 +56,11 @@ ninja.data = [{
           description: "Random pres about random stuff",
           section: "Presentations",handler: () => {
               window.location.href = "/presentations/pres_test.html";
+            },},{id: "presentations-an-other-presentation",
+          title: 'An other presentation',
+          description: "Random pres about random stuff",
+          section: "Presentations",handler: () => {
+              window.location.href = "/presentations/pres_2.html";
             },},{id: "projects-subduction-numerical-modeling",
           title: 'Subduction numerical modeling',
           description: "An overview of my research on subduction dynamics",
