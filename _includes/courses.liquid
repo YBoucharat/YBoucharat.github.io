@@ -1,19 +1,5 @@
 {% if site.teachings %}
   <div class="courses">
-
-    {% comment %} Use the following if you want to group by year {% endcomment %}
-
-  {% comment %}
-    {% assign courses_by_year = site.teachings | sort: 'year' | reverse | group_by: 'year' %}
-
-    {% for year_group in courses_by_year %}
-      <h2 class="year">{{ year_group.name }}</h2>
-      <div class="course-list">
-        {% assign year_courses = year_group.items | sort: 'term' %}
-        {% for course in year_courses %}
-  {% endcomment %}
-
-    {% comment %} Use the following if you want to group by topics {% endcomment %}
     
     {% assign courses_by_topic = site.teachings | group_by: "topic" %}
 
