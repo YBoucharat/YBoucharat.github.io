@@ -2,7 +2,7 @@
 layout: page
 title: RoSETTA
 description: Description of the RoSETTA code
-img: assets/img/3.jpg
+img: assets/img/RoSETTA_algo.jpg
 importance: 2
 category: work
 giscus_comments: true
