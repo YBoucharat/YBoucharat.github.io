@@ -165,7 +165,13 @@ collections:
   teachings:
     output: true
   presentations:
-    output: true
+    defaults:
+      - scope:
+          path: ""
+          type: presentations
+        values:
+          layout: presentation
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
