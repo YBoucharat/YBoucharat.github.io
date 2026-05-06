@@ -106,11 +106,6 @@ ninja.data = [{
           description: "Practicals for bachelor students (third year) to caracterize detritic and carbonate rocks at macro and micro scales.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/Sedim_systems_practicals.html";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning.html";
             },},{
         id: 'social-cv',
         title: 'CV',
