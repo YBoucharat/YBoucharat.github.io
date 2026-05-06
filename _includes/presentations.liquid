@@ -1,6 +1,6 @@
 {% if site.presentations %}
   <div class="presentations">
-    {% assign presentation = site.presentations | sort: 'year' | reverse %}
+    {% assign presentation = site.presentations | where: 'pres_id', include.pres_id | first %}
     
     <div class="presentation-schedule">
         <h2>{{ course.title }}</h2>
