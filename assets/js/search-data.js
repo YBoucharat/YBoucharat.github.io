@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
+          description: "Teaching experiences with some resources.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -496,6 +496,11 @@ ninja.data = [{
           description: "Description of the RoSETTA code",
           section: "Projects",handler: () => {
               window.location.href = "/projects/RoSETTA/";
+            },},{id: "teachings-basin-analysis",
+          title: 'Basin analysis',
+          description: "1 day out of 5 with master (first year) students to reconstruct the environment of the Vercors (French Alps) carbonate platform.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/Basin_analysis_field_M1/";
             },},{id: "teachings-mountain-building-climate-and-biodiversity",
           title: 'Mountain building, climate and biodiversity',
           description: "8 days of fieldwork in the Appenines to reconstruct the history of the Appenines mountain chain, from Eocene to present day, with links to other roll-backs systems in the Mediterranean, basin (de-)connections, climate and evolution of the biosphere.",
