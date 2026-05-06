@@ -51,78 +51,61 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/presentations/";
           },
-        },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-        
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
-      },{id: "projects-subduction-numerical-modeling",
+        },{id: "presentations-a-presentation",
+          title: 'A presentation',
+          description: "Random pres about random stuff",
+          section: "Presentations",handler: () => {
+              window.location.href = "/presentations/pres_test.html";
+            },},{id: "projects-subduction-numerical-modeling",
           title: 'Subduction numerical modeling',
           description: "An overview of my research on subduction dynamics",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Geodyn_subduction/";
+              window.location.href = "/projects/Geodyn_subduction.html";
             },},{id: "projects-some-python-tools",
           title: 'Some python tools',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/Python_projects/";
+              window.location.href = "/projects/Python_projects.html";
             },},{id: "projects-reef",
           title: 'REEF',
           description: "Description of the REEF code",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/REEF/";
+              window.location.href = "/projects/REEF.html";
             },},{id: "projects-rosetta",
           title: 'RoSETTA',
           description: "Description of the RoSETTA code",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/RoSETTA/";
+              window.location.href = "/projects/RoSETTA.html";
             },},{id: "teachings-basin-analysis",
           title: 'Basin analysis',
           description: "1 day out of 5 with master (first year) students to reconstruct the environment of the Vercors (French Alps) carbonate platform.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/Basin_analysis_field_M1/";
+              window.location.href = "/teachings/Basin_analysis_field_M1.html";
             },},{id: "teachings-mountain-building-climate-and-biodiversity",
           title: 'Mountain building, climate and biodiversity',
           description: "8 days of fieldwork in the Appenines to reconstruct the history of the Appenines mountain chain, from Eocene to present day, with links to other roll-backs systems in the Mediterranean, basin (de-)connections, climate and evolution of the biosphere.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/Biogeodynamics_Italy/";
+              window.location.href = "/teachings/Biogeodynamics_Italy.html";
             },},{id: "teachings-reef-code-practical",
           title: 'REEF code practical',
           description: "I developped this practical for master 1 and 2 students as an introduction to coral reef terraces dynamics, highlighting the interaction between Quaternary sea-level change, vertical movements and erosion/coral reef growth. The practical is then centered on the utilisation of the REEF code.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/REEF-code-practical/";
+              window.location.href = "/teachings/REEF-code-practical.html";
             },},{id: "teachings-sedimentology-systems",
           title: 'Sedimentology systems',
           description: "2 days to reconstruct the environment before and during the Alps&#39; flexural basin, from upper Jurassic to Pliocene.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/Sedim_systems_field_L3/";
+              window.location.href = "/teachings/Sedim_systems_field_L3.html";
             },},{id: "teachings-sedimentology-systems",
           title: 'Sedimentology systems',
           description: "Practicals for bachelor students (third year) to caracterize detritic and carbonate rocks at macro and micro scales.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/Sedim_systems_practicals/";
+              window.location.href = "/teachings/Sedim_systems_practicals.html";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/introduction-to-machine-learning.html";
             },},{
         id: 'social-cv',
         title: 'CV',
