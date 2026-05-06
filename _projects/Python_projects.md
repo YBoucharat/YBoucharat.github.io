@@ -4,7 +4,7 @@ title: Some python tools
 description: another without an image
 img:
 importance: 4
-category: work
+category: Other
 ---
 
 Every project has a beautiful feature showcase page.
