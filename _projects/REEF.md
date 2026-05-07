@@ -12,6 +12,15 @@ The REEF code is a kinematic profile evolution model, taking into account past s
 
 REEF is available at the following link : [https://github.com/CRADOCS/REEF](https://github.com/CRADOCS/REEF)
 
+<div style="display: flex; gap: 10px; align-items: flex-start;">
+  <img src="/assets/img/Tryptich_intro.png" title="Controlling parameters" 
+       style="height: 300px; width: auto;" class="rounded z-depth-1">
+  <img src="/assets/img/REEF_processes.jpg" title="REEF processes" 
+       style="height: 300px; width: auto;" class="rounded z-depth-1">
+  <img src="/assets/img/Forwards.jpg" title="Forward model example" 
+       style="height: 300px; width: auto;" class="rounded z-depth-1">
+</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Tryptich_intro.png" title="Controlling parameters" class="img-fluid rounded z-depth-1" %}
