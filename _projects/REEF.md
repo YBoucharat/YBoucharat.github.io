@@ -20,20 +20,8 @@ REEF is available at the following link : [https://github.com/CRADOCS/REEF](http
   <img src="/assets/img/Forwards.jpg" title="Forward model example" 
        style="height: 150px; width: auto;" class="rounded z-depth-1">
 </div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Tryptich_intro.png" title="Controlling parameters" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/REEF_processes.jpg" title="REEF processes" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Forwards.jpg" title="Forward model example" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 <div class="caption">
-    Blabla on REEF code
+    The three controlling parameters are the past sea-level fluctuations, tectonics and geomorphic processes, which are coded in the code as described in the second figure. The figure on the right is an output example of the code, compared to a coral reef terrace sequence in Sumba, Indonesia.
 </div>
 
 The new version of the REEF code is written in python, but already need some fresh air ! Do not hesitate to contribute ! 
