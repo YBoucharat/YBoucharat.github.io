@@ -14,11 +14,11 @@ REEF is available at the following link : [https://github.com/CRADOCS/REEF](http
 
 <div style="display: flex; gap: 10px; align-items: flex-start;">
   <img src="/assets/img/Tryptich_intro.png" title="Controlling parameters" 
-       style="height: 300px; width: auto;" class="rounded z-depth-1">
+       style="height: 150px; width: auto;" class="rounded z-depth-1">
   <img src="/assets/img/REEF_processes.jpg" title="REEF processes" 
-       style="height: 300px; width: auto;" class="rounded z-depth-1">
+       style="height: 150px; width: auto;" class="rounded z-depth-1">
   <img src="/assets/img/Forwards.jpg" title="Forward model example" 
-       style="height: 300px; width: auto;" class="rounded z-depth-1">
+       style="height: 150px; width: auto;" class="rounded z-depth-1">
 </div>
 
 <div class="row">
