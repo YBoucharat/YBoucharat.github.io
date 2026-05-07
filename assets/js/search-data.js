@@ -71,7 +71,7 @@ ninja.data = [{
               window.location.href = "/projects/REEF.html";
             },},{id: "projects-rosetta",
           title: 'RoSETTA',
-          description: "Description of the RoSETTA code",
+          description: "RoSETTA code: Reconstruction Of Sea-level, Ecosystems and Tectonics from Terrace Analysis",
           section: "Projects",handler: () => {
               window.location.href = "/projects/RoSETTA.html";
             },},{id: "teachings-basin-analysis",
