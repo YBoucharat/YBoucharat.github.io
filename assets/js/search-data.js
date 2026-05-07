@@ -59,9 +59,9 @@ ninja.data = [{
           description: "An overview of my research on subduction dynamics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Geodyn_subduction.html";
-            },},{id: "projects-some-python-tools",
-          title: 'Some python tools',
-          description: "another without an image",
+            },},{id: "projects-lamem-pytools",
+          title: 'LaMEM_pytools',
+          description: "A python library to process LaMEM code outputs",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Python_projects.html";
             },},{id: "projects-reef",
