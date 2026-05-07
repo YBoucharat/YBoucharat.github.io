@@ -7,7 +7,7 @@ importance: 4
 category: Other
 ---
 
-Until now, I only have one python library designed to extract and process outputs from the [LaMEM](https://github.com/JuliaGeodynamics/LaMEM.jl) code.
+Here is given a python library designed to extract and process outputs from the [LaMEM](https://github.com/JuliaGeodynamics/LaMEM.jl) code {% cite kaus_forward_2016 %}.
 
 You can find the LaMEM_pytools project at the following link: [https://github.com/YBoucharat/LaMEM_pytools](https://github.com/YBoucharat/LaMEM_pytools)
 
