@@ -5,6 +5,7 @@ description: A python library to process LaMEM code outputs
 img:
 importance: 4
 category: Other
+related_publications: true
 ---
 
 Here is given a python library designed to extract and process outputs from the [LaMEM](https://github.com/JuliaGeodynamics/LaMEM.jl) code {% cite kaus_forward_2016 %}.
