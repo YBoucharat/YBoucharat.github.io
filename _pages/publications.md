@@ -15,6 +15,6 @@ nav_order: 3
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --query @*[author ~= Boucharat] %}
 
 </div>
