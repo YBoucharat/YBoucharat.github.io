@@ -26,4 +26,4 @@ REEF is available at the following link : [https://github.com/CRADOCS/REEF](http
 
 The new version of the REEF code is written in python, but already need some fresh air ! Do not hesitate to contribute ! 
 
-The first version has been published in Fortran by {% cite husson_reef_2018 %}, improved by {% cite pastier_genesis_2019 %}, and recoded in python and released in {% cite boucharat_probabilistic_2025 %}.
+The first version has been published in Fortran by {% cite husson_reef_2018 %}, improved by {% cite pastier_genesis_2019 %}, and recoded in python and released in {% cite boucharat_probabilistic_2026 %}.
