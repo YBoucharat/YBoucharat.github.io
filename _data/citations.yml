@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-05-29'
 papers:
   2yOlBIEAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -8,7 +8,7 @@ papers:
   2yOlBIEAAAAJ:9yKSN-GCB0IC:
     citations: 0
     title: Probabilistic inversion of sea level, tectonics, and coral reef morphogenesis
-    year: '2025'
+    year: '2026'
   2yOlBIEAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: 'RoSETTA: Inverting coastal landforms towards past sea-levels, tectonics, and coral reef dynamics'
@@ -18,10 +18,10 @@ papers:
     title: "Geological inheritance controls reef\u2013mangrove responses to Holocene sea-level change"
     year: '2026'
   2yOlBIEAAAAJ:u-x6o8ySG0sC:
-    citations: 0
+    citations: 1
     title: Bayesian reconstruction of sea-level and hydroclimates from coastal landform inversion
     year: '2024'
   2yOlBIEAAAAJ:u5HHmVD_uO8C:
-    citations: 1
+    citations: 2
     title: 'Bayesian reconstruction of sea level and hydroclimates from coastal landform inversion: application to Santa Cruz (US) and Gulf of Corinth'
     year: '2025'
