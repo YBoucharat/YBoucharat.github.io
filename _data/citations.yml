@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-07'
 papers:
   2yOlBIEAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -9,6 +9,10 @@ papers:
     citations: 0
     title: Probabilistic inversion of sea level, tectonics, and coral reef morphogenesis
     year: '2026'
+  2yOlBIEAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: 'SUBUTTEC Project: SUBdUcTion triggered Terrestrial Evolution in the Caribbean'
+    year: '2025'
   2yOlBIEAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: "La s\xE9quence de r\xE9cifs coralliens fossiles du sud de Cuba, vieille d'un million d'ann\xE9es: une r\xE9f\xE9rence pour les reconstructions du niveau marin?"
@@ -22,7 +26,7 @@ papers:
     title: "Geological inheritance controls reef\u2013mangrove responses to Holocene sea-level change"
     year: '2026'
   2yOlBIEAAAAJ:u-x6o8ySG0sC:
-    citations: 2
+    citations: 1
     title: Bayesian reconstruction of sea-level and hydroclimates from coastal landform inversion
     year: '2024'
   2yOlBIEAAAAJ:u5HHmVD_uO8C:
