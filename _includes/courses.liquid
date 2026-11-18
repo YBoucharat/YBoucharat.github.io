@@ -26,7 +26,7 @@
 
             {% if course.materials %}
                 <ul class="schedule-materials">
-                  {% for material in presentation.materials %}
+                  {% for material in course.materials %}
                     <li>
                       {% if material.url %}
                         {% if material.url contains '://' %}
