@@ -24,6 +24,22 @@
               {% endif %}
             </div>
 
+            {% if course.materials %}
+                <ul class="schedule-materials">
+                  {% for material in presentation.materials %}
+                    <li>
+                      {% if material.url %}
+                        {% if material.url contains '://' %}
+                          <a href="{{ material.url }}" target="_blank">{{ material.name }}</a>
+                        {% else %}
+                          <a href="{{ material.url | relative_url }}" target="_blank">{{ material.name }}</a>
+                        {% endif %}
+                      {% else %}
+                        {{ material.name }}
+                      {% endif %}
+                    </li>
+            {% endif %}
+            
             {% if course.description %}
               <div class="course-description">
                 {{ course.description | markdownify }}
