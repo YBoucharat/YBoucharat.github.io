@@ -84,6 +84,11 @@ ninja.data = [{
           description: "8 days of fieldwork in the Appenines to reconstruct the history of the Appenines mountain chain, from Eocene to present day, with links to other roll-backs systems in the Mediterranean, basin (de-)connections, climate and evolution of the biosphere.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/Biogeodynamics_Italy.html";
+            },},{id: "teachings-",
+          title: '',
+          description: "",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/Modelling_epistemology.html";
             },},{id: "teachings-reef-code-practical",
           title: 'REEF code practical',
           description: "I developped this practical for master 1 and 2 students as an introduction to coral reef terraces dynamics, highlighting the interaction between Quaternary sea-level change, vertical movements and erosion/coral reef growth. The practical is then centered on the utilisation of the REEF code.",
