@@ -84,9 +84,9 @@ ninja.data = [{
           description: "8 days of fieldwork in the Appenines to reconstruct the history of the Appenines mountain chain, from Eocene to present day, with links to other roll-backs systems in the Mediterranean, basin (de-)connections, climate and evolution of the biosphere.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/Biogeodynamics_Italy.html";
-            },},{id: "teachings-",
-          title: '',
-          description: "",
+            },},{id: "teachings-modelling-epistemology",
+          title: 'Modelling epistemology',
+          description: "Magistral course of 1h - 1h30 (for master students initially) on epistemological questions in modelling.",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/Modelling_epistemology.html";
             },},{id: "teachings-reef-code-practical",
