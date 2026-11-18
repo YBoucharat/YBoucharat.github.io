@@ -7,7 +7,10 @@ year: 2026
 location: Université Grenoble Alpes
 time: 1h - 1h30
 course_id: Model-epistemo
-topic: Magistral course
+topic: Magistral courses
+materials:
+    - name: Slides
+      url: /assets/pdf/Intro_modeling.pdf
 ---
 
 ## Course Overview
