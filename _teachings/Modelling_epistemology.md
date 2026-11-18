@@ -7,7 +7,7 @@ year: 2026
 location: Université Grenoble Alpes
 time: 1h - 1h30
 course_id: Model-epistemo
-topic: Practicals
+topic: Magistral course
 ---
 
 ## Course Overview
